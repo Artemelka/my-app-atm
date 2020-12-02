@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App__container {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.App__content {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  margin-top: 24px;
+  width: 100%;
+}

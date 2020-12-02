@@ -1,0 +1,14 @@
+.Error-block {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Error-block__title {
+    font-size: 18px;
+}
+
+.Error-block__action {
+    margin-top: 36px;
+}

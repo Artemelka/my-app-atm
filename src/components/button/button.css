@@ -1,0 +1,18 @@
+.Button {
+    background-color: aqua;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 36px;
+    outline: none;
+    padding: 12px 24px;
+}
+
+.Button:hover {
+    opacity: .9;
+}
+
+.Button:active {
+    opacity: .7;
+}
